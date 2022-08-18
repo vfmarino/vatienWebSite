@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+  background-color: rgb(15, 68, 109);
+  color: rgb(0, 195, 255);
+
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

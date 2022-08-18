@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  margin-left: 2%;
+  padding: 4%;
+  border-radius: 10px;
+
+  box-shadow: 2px 2px 3px 3px  rgba(0, 0, 0, 0.64);
+  background-color: rgb(4, 35, 60);
+  width: 100%;
+}
+.container .divbutton{
+  background-color: rgb(4, 35, 60);
+}
+.container button{
+  padding: 4%;
+  margin-top: 5%;
+  background-color: rgb(4, 35, 60);
+  border: 0.5px solid rgb(0, 195, 255);
+  border-radius: 5px;
+  width: 100%;
+  font-size: 20px;
+}
+.active-link{
+  color: aliceblue;
+}
